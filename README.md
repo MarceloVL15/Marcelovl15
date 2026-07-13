@@ -1,5 +1,9 @@
 ## Olá! Me chamo Marcelo Vieira 👋💻 
 
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Marcelovl15&show_icons=true&theme=radical)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Marcelovl15&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Marcelovl15&layout=compact&langs_count=4&theme=radical)
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
